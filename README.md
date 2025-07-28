@@ -2,7 +2,7 @@
 
 A Machine Learning-powered Streamlit app that performs in-depth analysis of WhatsApp chat data. Upload your exported chat file (`.txt`) and visualize user statistics, message activity, emoji usage, word clouds, and more.
 
-🔗 **Live Demo**: [Check it out here]([https://adityashanky-whatsapp-chat-analysis-ml-project--app-f9knnl.streamlit.app/](https://adityashanky-whatsapp-chat-analysis-ml-project--app-f9knnl.streamlit.app/))
+🔗 **Live Demo**: [Check it out here](https://adityashanky-whatsapp-chat-analysis-ml-project--app-f9knnl.streamlit.app/)
 
 ---
 
